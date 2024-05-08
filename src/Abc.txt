@@ -1,0 +1,3 @@
+https://api.edamam.com/search?q='burger'&app_id=76cfd5b4&app_key=551837b5296dc876651b6a4f68acb073
+Application id = 76cfd5b4
+key = 551837b5296dc876651b6a4f68acb073
